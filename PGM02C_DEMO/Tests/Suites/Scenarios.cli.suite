@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<XaSuite xmlns="http://www.xact.dk/xatester/v/1" name="Generated suite for folder: Scenarios" haltAtFailure="false">
-  <Description>Generated suite by Topaz for Total Test CLI for folder on server: C:/Users/sandhata/shirisha dodla/TOTAL_TEST/DEMO_PGM02C/PGM02C_DEMO/Tests/Scenarios</Description>
-  <XaUnits>
-    <Path>../Scenarios/PGM02C_Scenario.context</Path>
-  </XaUnits>
-</XaSuite>
