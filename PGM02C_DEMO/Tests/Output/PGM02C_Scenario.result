@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <XaUnitResult resultType="FAILURE" containsSimulation="false">
-  <ExecutionId>8d00eb5c-b24c-4b01-82e8-4e381c5ccc06</ExecutionId>
+  <ExecutionId>13462c5b-1e2d-4f10-b89b-e987da99bd28</ExecutionId>
   <Message>An error occurred and the execution has been stopped. The runner JCL contains the TOTALTEST_JOBCARD parameter, but no jobcard file could be found</Message>
   <AST>
     <XaUnit xmlns="http://www.xact.dk/xatester/v/1" xmlns:data="http://www.xact.dk/xatester/data/v/1" caseInsensitiveCompare="false">
@@ -23,6 +23,6 @@
       <ExternalResources />
     </ExecutionContext>
   </Context>
-  <Started>20230808-17-31-21</Started>
-  <Ended>20230808-17-31-40</Ended>
+  <Started>20230808-17-58-21</Started>
+  <Ended>20230808-17-58-43</Ended>
 </XaUnitResult>
